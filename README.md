@@ -17,8 +17,10 @@ Traveler is a mobile app designed during the Apple Developer Academy Foundation 
 - Core Data for saving trips and preferences
 - Apple Pay integration for payments
 - Xcode as IDE
-- 
+
+  
 <img width="1078" height="835" alt="Screenshot 1445-11-14 at 4 24 27 PM" src="https://github.com/user-attachments/assets/ad3b87ee-9438-4a2c-abe8-5f587a23a0a6" />
+
 
 ## Developed as part of the Apple Developer Academy Foundation Program, By:
 - Danah Aldhawi
